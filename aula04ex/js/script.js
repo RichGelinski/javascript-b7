@@ -11,11 +11,11 @@ let b = 5
 let resp = 15
 console.log(a + b == resp)
 
-let preco = 60
+let preco = 68
 
 if (preco < 45) {
     console.log('O preço da carne está barato.')
-}   else if (preco >= 45 && preco < 60) {
+}   else if (preco < 60) {
     console.log('O preço da carne está normal.')
 }   else {
     console.log('O preço da carne está caro.')
