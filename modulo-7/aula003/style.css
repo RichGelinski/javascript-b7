@@ -1,0 +1,35 @@
+h1 {
+    display: inline-block;
+}
+
+.red {
+    background-color: red;
+    color: white;
+}
+
+.green {
+    background-color: green;
+    color: black;
+}
+
+.blue {
+    background-color: blue;
+    color: white;
+}
+
+.botoes {
+    margin-bottom: 100px;
+}
+
+#telefone {
+    display: none;
+    margin-right: 20px;
+}
+
+#mostrar {
+    display: inline-block;
+}
+
+#esconder {
+    display: none;
+}
