@@ -1,0 +1,23 @@
+@charset "utf-8";
+
+
+.texto {
+    height: 1000px;
+    width: 600px;
+    overflow: auto;
+    background-color: whitesmoke;
+    padding: 10px;
+}
+
+#botao {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: crimson;
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    cursor: pointer;
+    z-index: 999;
+    display: none;
+}

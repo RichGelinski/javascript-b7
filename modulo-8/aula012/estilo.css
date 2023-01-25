@@ -1,0 +1,10 @@
+@charset "utf-8";
+
+
+.texto {
+    height: 200px;
+    width: 200px;
+    overflow: auto;
+    background-color: whitesmoke;
+    padding: 10px;
+}
