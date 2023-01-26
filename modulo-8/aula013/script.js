@@ -5,7 +5,7 @@ function subirTela() {
     })
 }
 
-document.addEventListener('scroll', rolar) //aciona evento quando rolar o scroll
+window.addEventListener('scroll', rolar) //aciona evento quando rolar o scroll
 function rolar () {
     let btn = document.getElementById('botao')
     let posicao = window.scrollY
