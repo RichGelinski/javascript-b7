@@ -7,3 +7,4 @@ let res3 = parseFloat(n) + 1.5 //retorna o valor e seus decimais
 console.log(res)
 console.log(res2)
 console.log(res3)
+
